@@ -1,0 +1,50 @@
+[
+  {
+    "type": "abcd",
+    "question": "Bài thơ 'Mùa xuân xanh' được trích dẫn trong đề bài là của tác giả nào?",
+    "answers": ["Nguyễn Bính", "Xuân Diệu", "Hàn Mặc Tử", "Tố Hữu"],
+    "correct": 0
+  },
+  {
+    "type": "abcd",
+    "question": "Trong bài thơ 'Mùa xuân xanh', 'Cỏ nằm trên mộ' đợi điều gì?",
+    "answers": ["Mùa xuân đến", "Thanh minh", "Người yêu đến", "Nắng lên"],
+    "correct": 1
+  },
+  {
+    "type": "abcd",
+    "question": "Đố vui: Mùa xuân, cây gì nở hoa đỏ rực tượng trưng cho may mắn ngày Tết?",
+    "answers": ["Cây mai vàng", "Cây đào", "Cây phượng", "Cây bàng"],
+    "correct": 1
+  },
+  {
+    "type": "abcd",
+    "question": "Đố vui: Con gì đại diện cho năm 2024 trong 12 con giáp?",
+    "answers": ["Con Rồng", "Con Rắn", "Con Ngựa", "Con Dê"],
+    "correct": 0
+  },
+  {
+    "type": "sapxep",
+    "question": "Sắp xếp các từ sau thành câu đối vui ngày Tết: 'Thịt mỡ / dưa hành / câu đối đỏ / cây nêu / tràng pháo / bánh chưng xanh'",
+    "answers": ["Thịt mỡ", "dưa hành", "câu đối đỏ", "cây nêu", "tràng pháo", "bánh chưng xanh"],
+    "correct": [0, 1, 2, 3, 4, 5]
+  },
+  {
+    "type": "sapxep",
+    "question": "Sắp xếp thành câu chúc Tết ý nghĩa: 'Chúc / mừng / năm / mới / an / khang / thịnh / vượng'",
+    "answers": ["Chúc", "mừng", "năm", "mới", "an", "khang", "thịnh", "vượng"],
+    "correct": [0, 1, 2, 3, 4, 5, 6, 7]
+  },
+  {
+    "type": "sapxep",
+    "question": "Sắp xếp thành câu đố vui: 'Hoa / gì / nở / giữa / mùa / hè / gọi / ve / sầu'",
+    "answers": ["Hoa", "gì", "nở", "giữa", "mùa", "hè", "gọi", "ve", "sầu"],
+    "correct": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+  },
+  {
+    "type": "sapxep",
+    "question": "Sắp xếp thành tên một loại bánh không thể thiếu ngày Tết: 'Bánh / chưng / xanh / gói / lá / dong'",
+    "answers": ["Bánh", "chưng", "xanh", "gói", "lá", "dong"],
+    "correct": [0, 1, 2, 3, 4, 5]
+  }
+]
