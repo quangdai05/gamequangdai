@@ -1,50 +1,74 @@
 [
   {
     "type": "abcd",
-    "question": "Bài thơ 'Mùa xuân xanh' được trích dẫn trong đề bài là của tác giả nào?",
-    "answers": ["Nguyễn Bính", "Xuân Diệu", "Hàn Mặc Tử", "Tố Hữu"],
+    "question": "Trong bài thơ 'Mùa xuân xanh', tác giả Nguyễn Bính đã sử dụng hình ảnh 'thắt lưng xanh' để chỉ điều gì?",
+    "answers": ["Chiếc thắt lưng của tác giả", "Dải yếm của người con gái", "Màu xanh của lúa, cỏ, tre làng khi xuân về", "Chiếc khăn quàng của người lính"],
+    "correct": 2
+  },
+  {
+    "type": "abcd",
+    "question": "Trong khổ thơ thứ hai, 'Cỏ nằm trên mộ đợi thanh minh' – 'thanh minh' ở đây là gì?",
+    "answers": ["Tên một loài hoa", "Tiết trời mùa xuân trong trẻo", "Tên người yêu của tác giả", "Lễ hội mùa xuân"],
+    "correct": 1
+  },
+  {
+    "type": "abcd",
+    "question": "Câu thơ 'Tôi đợi người yêu đến tự tình' – từ 'tự tình' trong ngữ cảnh bài thơ có nghĩa là gì?",
+    "answers": ["Tự mình kể chuyện tình", "Thổ lộ tình cảm, tâm sự", "Tự tử vì tình", "Tự do yêu đương"],
+    "correct": 1
+  },
+  {
+    "type": "abcd",
+    "question": "Bài thơ 'Mùa xuân xanh' của Nguyễn Bính được viết theo thể thơ nào?",
+    "answers": ["Thơ bảy chữ", "Thơ lục bát", "Thơ năm chữ", "Thơ tự do"],
     "correct": 0
   },
   {
     "type": "abcd",
-    "question": "Trong bài thơ 'Mùa xuân xanh', 'Cỏ nằm trên mộ' đợi điều gì?",
-    "answers": ["Mùa xuân đến", "Thanh minh", "Người yêu đến", "Nắng lên"],
+    "question": "Hình ảnh 'lúa ở đồng tôi và lúa ở / Đồng nàng và lúa ở đồng anh' thể hiện điều gì?",
+    "answers": ["Sự phân biệt giai cấp trong xã hội", "Tình cảm gắn bó giữa các miền quê và tình yêu đôi lứa", "Sự giàu có của các gia đình", "Cảnh mùa gặt ở nhiều nơi"],
     "correct": 1
   },
   {
     "type": "abcd",
-    "question": "Đố vui: Mùa xuân, cây gì nở hoa đỏ rực tượng trưng cho may mắn ngày Tết?",
-    "answers": ["Cây mai vàng", "Cây đào", "Cây phượng", "Cây bàng"],
-    "correct": 1
-  },
-  {
-    "type": "abcd",
-    "question": "Đố vui: Con gì đại diện cho năm 2024 trong 12 con giáp?",
-    "answers": ["Con Rồng", "Con Rắn", "Con Ngựa", "Con Dê"],
+    "question": "Trong bài thơ, từ 'giời' được dùng thay cho từ nào?",
+    "answers": ["Trời", "Đất", "Giới hạn", "Mây"],
     "correct": 0
   },
   {
     "type": "sapxep",
-    "question": "Sắp xếp các từ sau thành câu đối vui ngày Tết: 'Thịt mỡ / dưa hành / câu đối đỏ / cây nêu / tràng pháo / bánh chưng xanh'",
-    "answers": ["Thịt mỡ", "dưa hành", "câu đối đỏ", "cây nêu", "tràng pháo", "bánh chưng xanh"],
+    "question": "Sắp xếp thành câu ca dao về lòng hiếu thảo",
+    "answers": ["Một", "lòng", "thờ", "mẹ", "kính", "cha", "cho", "tròn", "chữ", "hiếu", "mới", "là", "đạo", "con", "nghĩa"],
+    "correct": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+  },
+  {
+    "type": "sapxep",
+    "question": "Sắp xếp thành câu tục ngữ về phẩm chất",
+    "answers": ["Cái", "nết", "đánh", "chết", "cái", "đẹp", "tốt"],
     "correct": [0, 1, 2, 3, 4, 5]
   },
   {
     "type": "sapxep",
-    "question": "Sắp xếp thành câu chúc Tết ý nghĩa: 'Chúc / mừng / năm / mới / an / khang / thịnh / vượng'",
-    "answers": ["Chúc", "mừng", "năm", "mới", "an", "khang", "thịnh", "vượng"],
+    "question": "Sắp xếp thành câu tục ngữ về thời tiết",
+    "answers": ["Gió", "bấc", "hiu", "hiu", "sếu", "kêu", "thì", "rét", "mùa", "đông"],
     "correct": [0, 1, 2, 3, 4, 5, 6, 7]
   },
   {
     "type": "sapxep",
-    "question": "Sắp xếp thành câu đố vui: 'Hoa / gì / nở / giữa / mùa / hè / gọi / ve / sầu'",
-    "answers": ["Hoa", "gì", "nở", "giữa", "mùa", "hè", "gọi", "ve", "sầu"],
-    "correct": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    "question": "Sắp xếp thành câu tục ngữ về sự khéo léo",
+    "answers": ["Khéo", "ăn", "thì", "no", "khéo", "co", "thì", "ấm", "thông", "minh"],
+    "correct": [0, 1, 2, 3, 4, 5, 6, 7]
   },
   {
     "type": "sapxep",
-    "question": "Sắp xếp thành tên một loại bánh không thể thiếu ngày Tết: 'Bánh / chưng / xanh / gói / lá / dong'",
-    "answers": ["Bánh", "chưng", "xanh", "gói", "lá", "dong"],
+    "question": "Sắp xếp thành câu tục ngữ về sự cẩn trọng trong lời nói",
+    "answers": ["Ăn", "một", "miếng", "tiếng", "để", "đời", "lời"],
     "correct": [0, 1, 2, 3, 4, 5]
+  },
+  {
+    "type": "sapxep",
+    "question": "Sắp xếp thành câu tục ngữ về sự kiên trì",
+    "answers": ["Có", "công", "mài", "sắt", "có", "ngày", "nên", "kim", "nhọn", "dù", "khó"],
+    "correct": [0, 1, 2, 3, 4, 5, 6, 7]
   }
 ]
