@@ -4,55 +4,55 @@
     "question": "Trong bài thơ 'Mùa xuân xanh', tác giả Nguyễn Bính đã sử dụng hình ảnh 'thắt lưng xanh' để chỉ điều gì?",
     "answers": [
       "Dải yếm của người con gái", 
-      "Chiếc khăn quàng của người lính", 
+      "Màu xanh của lúa, cỏ, tre làng khi xuân về", 
       "Chiếc thắt lưng của tác giả", 
-      "Màu xanh của lúa, cỏ, tre làng khi xuân về"
+      "Chiếc khăn quàng của người lính"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "type": "abcd",
     "question": "Trong khổ thơ thứ hai, 'Cỏ nằm trên mộ đợi thanh minh' – 'thanh minh' ở đây là gì?",
     "answers": [
       "Lễ hội mùa xuân", 
-      "Tiết trời mùa xuân trong trẻo", 
       "Tên người yêu của tác giả", 
+      "Tiết trời mùa xuân trong trẻo", 
       "Tên một loài hoa"
-    ],
-    "correct": 1
-  },
-  {
-    "type": "abcd",
-    "question": "Câu thơ 'Tôi đợi người yêu đến tự tình' – từ 'tự tình' trong ngữ cảnh bài thơ có nghĩa là gì?",
-    "answers": [
-      "Thổ lộ tình cảm, tâm sự", 
-      "Tự do yêu đương", 
-      "Tự mình kể chuyện tình", 
-      "Tự tử vì tình"
-    ],
-    "correct": 0
-  },
-  {
-    "type": "abcd",
-    "question": "Bài thơ 'Mùa xuân xanh' của Nguyễn Bính được viết theo thể thơ nào?",
-    "answers": [
-      "Thơ lục bát", 
-      "Thơ năm chữ", 
-      "Thơ bảy chữ", 
-      "Thơ tự do"
     ],
     "correct": 2
   },
   {
     "type": "abcd",
+    "question": "Câu thơ 'Tôi đợi người yêu đến tự tình' – từ 'tự tình' trong ngữ cảnh bài thơ có nghĩa là gì?",
+    "answers": [
+      "Tự do yêu đương", 
+      "Thổ lộ tình cảm, tâm sự", 
+      "Tự mình kể chuyện tình", 
+      "Tự tử vì tình"
+    ],
+    "correct": 1
+  },
+  {
+    "type": "abcd",
+    "question": "Bài thơ 'Mùa xuân xanh' của Nguyễn Bính được viết theo thể thơ nào? (Lưu ý: Bài thơ có vần điệu rất giống lục bát nhưng không phải)",
+    "answers": [
+      "Thơ lục bát", 
+      "Thơ tự do", 
+      "Thơ năm chữ", 
+      "Thơ bảy chữ"
+    ],
+    "correct": 3
+  },
+  {
+    "type": "abcd",
     "question": "Hình ảnh 'lúa ở đồng tôi và lúa ở / Đồng nàng và lúa ở đồng anh' thể hiện điều gì?",
     "answers": [
-      "Sự phân biệt giai cấp trong xã hội", 
       "Tình cảm gắn bó giữa các miền quê và tình yêu đôi lứa", 
+      "Sự phân biệt giai cấp trong xã hội", 
       "Sự giàu có của các gia đình", 
       "Cảnh mùa gặt ở nhiều nơi"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "type": "abcd",
@@ -71,32 +71,32 @@
     "answers": [
       "Phải trung thành với tổ quốc", 
       "Phải chăm chỉ học hành", 
-      "Phải hiếu thảo, kính trọng cha mẹ", 
-      "Phải giữ gìn truyền thống gia đình"
+      "Phải giữ gìn truyền thống gia đình", 
+      "Phải hiếu thảo, kính trọng cha mẹ"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "type": "abcd",
     "question": "Thành ngữ 'Cái nết đánh chết cái đẹp' muốn nói điều gì?",
     "answers": [
       "Phải biết làm đẹp bản thân", 
-      "Cái đẹp không quan trọng bằng tính cách", 
       "Người có nết tốt sẽ đẹp hơn", 
+      "Cái đẹp không quan trọng bằng tính cách", 
       "Cái đẹp và cái nết không thể đi cùng nhau"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "type": "abcd",
-    "question": "Tục ngữ 'Gió bấc hiu hiu, sếu kêu thì rét' nói về hiện tượng gì?",
+    "question": "Tục ngữ 'Gió bấc hiu hiu, sếu kêu thì rét' nói về hiện tượng gì? (Lưu ý: Đây là quy luật dân gian, không phải tập tính sinh học)",
     "answers": [
       "Sự di cư của loài chim", 
-      "Quy luật thời tiết mùa đông", 
       "Mùa thu sang đông", 
-      "Tập tính của loài sếu"
+      "Tập tính của loài sếu", 
+      "Quy luật thời tiết mùa đông"
     ],
-    "correct": 1
+    "correct": 3
   },
   {
     "type": "abcd",
@@ -114,8 +114,8 @@
     "question": "Câu tục ngữ 'Ăn một miếng, tiếng để đời' cảnh báo điều gì?",
     "answers": [
       "Không nên ăn một mình", 
-      "Phải biết chia sẻ", 
       "Không nên tham lam", 
+      "Phải biết chia sẻ", 
       "Phải cẩn trọng trong lời nói, hành động"
     ],
     "correct": 3
@@ -125,32 +125,32 @@
     "question": "Điền từ còn thiếu vào câu tục ngữ: 'Có công mài sắt, có ngày nên...'",
     "answers": [
       "búa", 
-      "kim", 
       "dao", 
+      "kim", 
       "thép"
     ],
-    "correct": 1
+    "correct": 2
   },
   {
     "type": "abcd",
     "question": "Câu tục ngữ 'Một nắng hai sương' tả đức tính gì?",
     "answers": [
       "Sự thông minh, khéo léo", 
+      "Sự cần cù, chịu thương chịu khó", 
       "Sự tiết kiệm", 
-      "Sự kiên trì", 
-      "Sự cần cù, chịu thương chịu khó"
+      "Sự kiên trì"
     ],
-    "correct": 3
+    "correct": 1
   },
   {
     "type": "abcd",
     "question": "Thành ngữ 'Há miệng chờ sung' phê phán thói xấu nào?",
     "answers": [
       "Thói kiêu căng", 
-      "Thói ỷ lại, lười lao động", 
+      "Thói háu ăn", 
       "Thói tham lam", 
-      "Thói háu ăn"
+      "Thói ỷ lại, lười lao động"
     ],
-    "correct": 1
+    "correct": 3
   }
 ]
